@@ -1,0 +1,5 @@
+- Name: Cadenzapicaro's Celeste Conversion
+  Version: alpha1
+  Dependencies:
+    - Name: Everest
+      Version: 1.2729.0
